@@ -1,2 +1,1 @@
-# ibroadcast-desktop
-Standalone desktop wrapper for iBroadcast music streaming, built with Nativefier.
+Double-click iBroadcast.exe to run; logs in to iBroadcast.com like the web version. Built with Nativefier.
